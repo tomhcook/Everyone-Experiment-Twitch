@@ -172,6 +172,12 @@ class Bot(commands.Bot):
             # e.g ?hello
             # We can also give our commands aliases (different names) to invoke with.
             await ctx.send(f'Anyone can stream to the Everyone Experiment.  To connect, see explanation and stream key in the description.')
+    @commands.command()
+    async def Dev(self, ctx: commands.Context):
+            # Here we have a command hello, we can invoke our command with our prefix and command name
+            # e.g ?hello
+            # We can also give our commands aliases (different names) to invoke with.
+            await ctx.send(f'The Dev for this channel is Err0rz For the server and the botand Johhnnay is helping maintain it with bot ')
 
 while True:
     bot = Bot()
