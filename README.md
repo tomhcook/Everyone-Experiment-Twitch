@@ -1,6 +1,6 @@
 # Welcome to the Everyone Experiment for Twitch 
 
-This was a development process over the course of 2 days, however their is weekly updates and changes to this system you will need Nginx Open source to get this to all run correctly.
+This was a development process over the course of 2 days, however there are going weekly updates if not quicker and changes to this system you will need Nginx Open source to get this to all run correctly.
 You can watch it here  https://www.twitch.tv/everytwo_experiment
 
 
