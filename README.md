@@ -5,7 +5,7 @@ You can watch it here  https://www.twitch.tv/everytwo_experiment
 
 
 # Commands
-The program contians a list of commands in the main.py file a full list can be found within the wiki
+The program contians a list of commands in the [main.py](https://github.com/tomhcook/Everyone-Experiment-Twitch/blob/main/Main.py) file a full list can be found within the wiki
 ## Copyright
 This is a human-readable summary of (and not a substitute for) the [license](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode). [Disclaimer](https://creativecommons.org/licenses/by-nc-sa/4.0/#).
 
